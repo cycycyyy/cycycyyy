@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Kumusta po, I'm Jon Cyrel!
 
-<!--
-**cycycyyy/cycycyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Graphic Sensei, mastering the art of product design, and branding harmony. Let's start?
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are the tech I have learned (still learning some) and currently use:
+
+### Development
+- Laravel
+- Vue
+- PHP
+- JavaScript
+- HTML
+- CSS
+- Databases
+- GitHub
+
+### Designing
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Figma
+- Canva
+
+## 📬 Contact
+
+I am not actively seeking employment opportunities at the moment. However, if you have a project in mind where you believe my assistance could be valuable, don't hesitate to reach out to me through these platforms:
+
+- **Email**: [email@example.com](mailto:email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Facebook**: [Facebook Profile](https://www.facebook.com/your-profile)
+
+---
+
+*Created with ❤️ by Jon Cyrel Somera, 2024*
