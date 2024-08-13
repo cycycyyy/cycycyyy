@@ -59,7 +59,3 @@
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cycycyyy&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cycycyyy&show_icons=true&locale=en" alt="GitHub Stats" /></p>
